@@ -1,0 +1,18 @@
+{
+    "ROM": {
+        "c48057d42476e242bb6e142e6baf4477d": {}, 
+        "c832b8ad52fa78b7df3b3ef17273a2ac5": {}
+    }, 
+    "readMember": {
+        "c48057d42476e242bb6e142e6baf4477d": "", 
+        "c832b8ad52fa78b7df3b3ef17273a2ac5": ""
+    }, 
+    "readPoint": {
+        "c48057d42476e242bb6e142e6baf4477d": "7556106445260", 
+        "c832b8ad52fa78b7df3b3ef17273a2ac5": "7556108431718"
+    }, 
+    "setTime": {
+        "c48057d42476e242bb6e142e6baf4477d": "06:30:17", 
+        "c832b8ad52fa78b7df3b3ef17273a2ac5": "06:30:19"
+    }
+}
