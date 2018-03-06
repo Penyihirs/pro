@@ -1,1 +1,23 @@
-# pro
+= Command Termux =
+-apt update
+-pkg install python
+-pkg install python2
+-pkg install git
+-pip2 install rsa
+-pip2 install thrift==0.9.3
+-pip2 install requests
+-pip2 install bs4
+-pip2 install goslate
+-pip2 install gtts
+-pip2 install beautifulsoup
+-pip2 install urllib3
+-pip2 install lxml
+-pip2 install googletrans
+-cd storage
+-cd downloads
+-git clone http://github.com/penyihir/pro
+-cd pro
+-python2 1.py
+LOG IN TOKEN DENGAN : CHROMEOS\t1.4.17\tChrome_OS\t1
+
+
